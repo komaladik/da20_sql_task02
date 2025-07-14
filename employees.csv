@@ -1,0 +1,14 @@
+emp_id,name,age,gender,position,joining_date,employment_type,department_id,location,email
+1,Amit Kumar,28,Male,Developer,2021-06-15,Permanent,2,Pune,amit.kumar@example.com
+2,Priya Singh,32,Female,HR Manager,2019-03-20,Permanent,1,Delhi,priya.singh@example.com
+3,Rahul Mehra,25,Male,Intern,2024-01-10,Internship,3,Mumbai,rahul.mehra@example.com
+4,Sneha Iyer,30,Female,Data Analyst,2020-09-01,Contract,2,Pune,sneha.iyer@example.com
+5,Manoj Reddy,35,Male,Project Manager,2018-11-12,Permanent,2,Hyderabad,manoj.reddy@example.com
+6,Kavita Das,29,Female,Developer,2022-02-18,Permanent,2,Kolkata,kavita.das@example.com
+7,Rohit Sharma,40,Male,Team Lead,2017-08-05,Permanent,2,Chennai,rohit.sharma@example.com
+8,Neha Verma,27,Female,UI Designer,2021-04-23,Contract,4,Bangalore,neha.verma@example.com
+9,Vikram Joshi,31,Male,QA Engineer,2020-10-30,Permanent,2,Ahmedabad,vikram.joshi@example.com
+10,Alok Sharma,26,Male,Support Engineer,2023-05-19,Contract,5,Noida,alok.sharma@example.com
+11,Divya Nair,33,Female,Developer,2019-07-22,Permanent,2,Pune,divya.nair@example.com
+12,Imran Khan,24,Male,Intern,2024-02-01,Internship,2,Lucknow,imran.khan@example.com
+13,Anjali Patel,29,Female,HR Executive,2020-01-15,Permanent,1,Surat,anjali.patel@example.com
