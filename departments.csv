@@ -1,0 +1,12 @@
+dept_id,dept_name,location,employee_count,status,dept_type,description,division_id,head_email,established_date
+1,HR,Pune,12,open,Core,Handles recruitment and employee welfare,1,hr.manager@company.com,2021-03-10
+2,Finance,Delhi,8,open,Core,Manages budgets and payroll,2,finance.head@company.com,2020-01-15
+3,Marketing,Mumbai,15,hiring,Support,Campaigns and market research,3,marketing.lead@company.com,2022-05-20
+4,IT,Pune,25,open,Core,Handles tech infrastructure,1,it.admin@company.com,2019-08-01
+5,Sales,Delhi,10,closed,Support,Client acquisition,2,sales.manager@company.com,2021-10-12
+6,Admin,Gurgaon,6,closed,Admin,Office management,3,admin.head@company.com,2018-07-07
+7,Design,Mumbai,13,hiring,Support,UI/UX design and branding,4,design.lead@company.com,2020-11-18
+8,QA,Pune,9,open,Support,Testing software products,1,qa.lead@company.com,2022-06-05
+9,Legal,Delhi,7,open,Core,Handles legal matters,2,legal.head@company.com,2019-09-25
+10,Training,Mumbai,5,hiring,Support,Employee skill development,3,trainer@company.com,2023-01-10
+11,R&D,Bangalore,18,open,Core,Research and development,4,rnd.head@company.com,2022-03-01
