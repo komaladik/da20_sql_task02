@@ -1,0 +1,12 @@
+project_id,project_name,owner_emp_id,start_date,end_date,status,description,priority,team_size,client_id
+1,ChatBot AI,5,2023-01-01,2023-03-15,Completed,AI chatbot for customer service,High,4,2
+2,CRM Revamp,3,2023-02-01,2023-04-20,Ongoing,Redesign of CRM interface,Medium,5,1
+3,Internal Wiki Setup,4,2023-03-10,,Planning,Knowledge base for employees,Low,2,3
+4,Salesforce Integration,2,2022-12-15,2023-02-28,Completed,Integrate with Salesforce platform,High,6,1
+5,Onboarding Portal,6,2023-04-01,,Ongoing,Portal for new joiners,Medium,3,2
+6,Payroll System,7,2023-01-20,2023-02-25,Completed,Automated payroll generation,High,5,1
+7,Analytics Dashboard,8,2023-05-10,,Planning,Real-time analytics for sales,Low,2,4
+8,Mobile App Dev,1,2023-06-01,,Ongoing,Android and iOS mobile app,High,5,2
+9,Cyber Security Upgrade,9,2022-11-01,2023-01-30,Completed,Enhanced security protocols,Medium,4,3
+10,Apollo App,10,2023-07-01,,Planning,Healthcare mobile application,High,4,4
+11,Training Portal,11,2023-05-15,2023-06-25,Completed,Online learning system,Medium,3,2
